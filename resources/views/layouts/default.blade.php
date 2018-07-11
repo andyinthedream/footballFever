@@ -21,6 +21,9 @@
     <script src="layui/layui.js"></script>
 
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- 引入 echarts.js -->
+    <script src="js/echarts.common.min.js"></script>
     <title>@yield("title", '足球热')</title>
 </head>
 <body>

@@ -19,7 +19,7 @@
             @include('plugin.carousel')
         </div>
         <div class="layui-tab-item">
-            統計
+            @include('plugin.status')
         </div>
     </div>
 </div>
